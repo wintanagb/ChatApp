@@ -5,7 +5,7 @@ const ChannelContainer = () => {
     <div>
       Channel Container
     </div>
-  )
+  );
 }
 
 export default ChannelContainer

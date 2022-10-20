@@ -6,7 +6,7 @@ const ChannelListContainer = () => {
         Channel List Container
       
     </div>
-  )
+  );
 }
 
 export default ChannelListContainer
